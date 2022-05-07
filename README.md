@@ -17,7 +17,7 @@ Downloads:
 1. Install ESP8266 Board (version 2.4.2) to Arduino IDE 
       1. Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the Additional Board Manager URLs field.
 1. Adding the Firebase [library](https://github.com/mhaao/FirebaseArduino/blob/main/FirebaseArduino.zip) 
-1. Adding the ArduinoJson (version 5.13.2 ) library
+1. Adding the ArduinoJson (version 5.13.2 ) [library](https://github.com/mhaao/FirebaseArduino/blob/main/ArduinoJson.zip)
 1. Setup Firebase realtime database
 1. Test 
       1. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/sketch_testTheWifi.ino) the wifi (Board "(NodeMCU 1.0(ESP-12E Module))")

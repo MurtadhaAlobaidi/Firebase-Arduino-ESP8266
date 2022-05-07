@@ -7,7 +7,6 @@
 1. [USB-A to B Cable](https://www.amazon.com/AmazonBasics-USB-2-0-Cable-Male/dp/B00NH11KIK?th=1)
 
 ## Software
-Downloads:
 1. [Arduino IDE](https://www.arduino.cc/en/software)
 1. [Google Firebase](https://firebase.google.com)
 

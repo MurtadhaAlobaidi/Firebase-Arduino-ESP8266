@@ -1,5 +1,4 @@
-# Started connected ESP8266 with Firebase (Realtime Database)
-
+## Started connected ESP8266 with Firebase (Insert and read from Realtime Database)
 ## Hardwer
 1. [Arduino UNO](https://www.arduino.cc/en/main/arduinoBoardUno)
 1. [wifi ESP8266 (Espressif ESP8266 ESP-01)](https://developers.wia.io/things/esp8266) 

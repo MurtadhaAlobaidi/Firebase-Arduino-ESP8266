@@ -25,7 +25,6 @@ void setup() {
   Firebase.begin(FIREBASE_HOST, FIREBASE_AUTH);
 }
 
-//int n ;
 String n;
 
 void loop() {
@@ -35,7 +34,6 @@ void loop() {
   if (Firebase.failed()) {
       Serial.print("setting /number failed:");
       Serial.println(Firebase.error());  
-      //return;
   } else 
   {
       Serial.println(n);

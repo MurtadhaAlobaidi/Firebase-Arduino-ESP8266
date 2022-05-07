@@ -20,6 +20,6 @@ Downloads:
 1. Adding the ArduinoJson (version 5.13.2 ) [library](https://github.com/mhaao/FirebaseArduino/blob/main/ArduinoJson.zip)
 1. Setup Firebase realtime database
 1. Test 
-      1. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/sketch_testTheWifi.ino) the wifi (Board "(NodeMCU 1.0(ESP-12E Module))")
+      1. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/sketch_testTheWifi.ino) connected to wifi (Board "(NodeMCU 1.0(ESP-12E Module))")
       2. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/WriteToFirebase.ino) connected to firebase (insert data to Realtime Database)
       3. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/ReadFromFirebase.ino) connected to firebase (Read data from Realtime Database)

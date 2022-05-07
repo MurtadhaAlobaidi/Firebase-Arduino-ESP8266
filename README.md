@@ -10,5 +10,5 @@
 ## Software 
 Downloads:
 1. [Arduino IDE](https://www.arduino.cc/en/software)
-1. [Google Firebase](https://firebase.google.com]
-1.
+1. [Google Firebase](https://firebase.google.com)
+1. 

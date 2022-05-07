@@ -2,10 +2,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "morse-cde1f-default-rtdb.europe-west1.firebasedatabase.app"
-#define FIREBASE_AUTH "uIlXWKIP1t00H8HO2rJV4hDDp9wtEUJ3gECJwYaV"
-#define WIFI_SSID "ASUS_Bit"
-#define WIFI_PASSWORD "J4c0b2020"
+#define FIREBASE_HOST "example.firebaseio.com"
+#define FIREBASE_AUTH "token_or_secret"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 
 void setup() {
@@ -33,7 +33,6 @@ void loop() {
   if (Firebase.failed()) {
       Serial.print("setting /message failed:");
       Serial.println(Firebase.error());   
-      //return;
   } 
   delay(1000);
 }

@@ -14,8 +14,8 @@ Downloads:
 
 # Start
 1. Download Arduino IDE
-1. Install ESP8266 Board to Arduino IDE
+1. Install ESP8266 Board (version 2.4.2) to Arduino IDE
       1. Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the Additional Board Manager URLs field.
 1. Adding the Firebase [library](https://github.com/mhaao/FirebaseArduino/blob/main/FirebaseArduino.zip) 
-1. Adding the ArduinoJson library
+1. Adding the ArduinoJson (version 5.13.2 ) library
 1. Setup Firebase realtime database

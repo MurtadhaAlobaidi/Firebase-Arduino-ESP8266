@@ -11,4 +11,10 @@
 Downloads:
 1. [Arduino IDE](https://www.arduino.cc/en/software)
 1. [Google Firebase](https://firebase.google.com)
+
+# Start
+1. Download Arduino IDE
+1. Install ESP8266 Board to Arduino IDE
+      1. Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the Additional Board Manager URLs field.
+1. Adding the Firebase library 
 1. 

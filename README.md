@@ -22,3 +22,4 @@ Downloads:
 1. Test 
       1. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/sketch_testTheWifi.ino) the wifi (Board "(NodeMCU 1.0(ESP-12E Module))")
       2. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/FirebaseDemo_ESP8266.ino) connected to firebase (insert data to Realtime Database)
+      3. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/FirebaseDemo_ESP8266.ino) connected to firebase (Read data from Realtime Database)

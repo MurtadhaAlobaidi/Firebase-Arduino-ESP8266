@@ -19,3 +19,4 @@ Downloads:
 1. Adding the Firebase [library](https://github.com/mhaao/FirebaseArduino/blob/main/FirebaseArduino.zip) 
 1. Adding the ArduinoJson (version 5.13.2 ) library
 1. Setup Firebase realtime database
+      1. Enter testCode

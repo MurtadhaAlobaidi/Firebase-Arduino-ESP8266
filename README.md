@@ -8,7 +8,9 @@
 
 ## How to connecting Arduino UNO and ESP8266
 <p align="center"> 
-<a > <img src="https://github.com/HenningWigforss/II1302/blob/main/icons/Arbetstavla%20grupp%2014%20-%20produkt%20id%C3%A9%20(1).jpeg" alt="design" width="900" height="500"/> </a> </p>
+<a > <img src="https://github.com/mhaao/Firebase-Arduino-ESP8266/blob/main/Installation%20arduino%20%26ESP8266/Arduino%20Uno%20And%20Esp8266-3.jpg" alt="design" width="500" height="500"/> 
+      <img src="https://github.com/mhaao/Firebase-Arduino-ESP8266/blob/main/Installation%20arduino%20%26ESP8266/Arduino%20Uno%20And%20Esp8266-3.jpg" alt="design" width="500" height="500"/>
+      </a> </p>
 
 
 ## Software

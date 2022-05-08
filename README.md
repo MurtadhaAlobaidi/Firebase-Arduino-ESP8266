@@ -27,3 +27,5 @@
       1. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/sketch_testTheWifi.ino) connected to wifi (Board "(NodeMCU 1.0(ESP-12E Module))")
       2. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/WriteToFirebase.ino) connected to firebase (insert data to Realtime Database)
       3. [Test](https://github.com/mhaao/FirebaseArduino/blob/main/ReadFromFirebase.ino) connected to firebase (Read data from Realtime Database)
+## Other useful links
+https://create.arduino.cc/projecthub/pulasthi-Narada/connecting-esp8266-to-firebase-to-send-receive-data-4adf66?ref=user&ref_id=1642765&offset=1

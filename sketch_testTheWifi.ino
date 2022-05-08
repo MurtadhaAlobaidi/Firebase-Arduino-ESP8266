@@ -1,7 +1,3 @@
-//koppling till wifi "ESP8266WiFi.h" bord = Generic 8266 module
-//SparkFun esp8266 thing
-//9600
-
 #include "ESP8266WiFi.h"
 
 const char* ssid = "Enter SSID"; //Enter SSID
